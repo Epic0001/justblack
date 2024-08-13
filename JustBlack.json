@@ -23,29 +23,30 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
-      "#000000"
-    ],
-    "TEXT_MUTED": [
-      "#C3C3C3",
-      "#ffffff"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#ffffff",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#FFFFFF"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#403F3F",
-      "#FFFFFF"
-    ],
+         "#FBFBFB",
+         "#FFFFFF"
+      ],
+      "TEXT_MUTED": [
+         "#B6B6B6",
+         "#FFFFFF"
+      ],
+    
+      "INTERACTIVE_NORMAL": [
+         "#C8C8C8",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_HOVER": [
+         "#DCDDDE",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+         "#FFFFFF",
+         "#FFFFFF"
+      ],
+      "INTERACTIVE_MUTED": [
+         "#747474",
+         "#FFFFFF"
+      ],
     "BACKGROUND_PRIMARY": [
       "#000000",
       "#ffffff"
@@ -82,30 +83,26 @@
       "#000000",
       "#ffffff"
     ],
-    "BACKGROUND_MENTIONED": [
-      "#333333",
-      "#ffffff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#5E5E5E",
-      "#ffffff"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "transparent"
-    ],
+      "BACKGROUND_MESSAGE_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+         "rgba(255, 255, 255, 0.03)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+         "rgba(255, 255, 255, 0.04)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+         "rgba(255, 255, 255, 0.06)",
+         "#FFFFFF"
+      ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
       "#ffffff"
@@ -142,10 +139,6 @@
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#000000"
-    ],
-    "TEXT_LINK": [
-      "#6B6B6B",
-      "#ffffff"
     ],
     "KEYBOARD": [
       "#000000",
@@ -190,6 +183,6 @@
     "RED_400": "#FF354D"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#8E8E8E"
+    "CHAT_GREY": "#000000"
   }
 }
